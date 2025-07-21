@@ -82,10 +82,7 @@ color: #4d5ae5;
         line-height: 1.5;
         letter-spacing: 0.04em;
         cursor: pointer;
-  }
-
-  .button-part {
-    color: #ffffff
+        color: #ffffff;
   }
 
   .business-button:hover,
@@ -127,7 +124,7 @@ color: #4d5ae5;
         text-transform: capitalize;
   }
 
-  .team-list {
+  .team-item {
     background-color: #FFFFFF;
   }
 
